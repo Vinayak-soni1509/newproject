@@ -1,0 +1,2 @@
+# newproject
+Just for learning
